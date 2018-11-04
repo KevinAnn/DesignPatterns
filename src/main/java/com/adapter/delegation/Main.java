@@ -1,7 +1,7 @@
 package com.adapter.delegation;
 
 /**
- * @description: 执行类
+ * @description: 使用委托的适配器模式执行类
  * @author: 安琪
  * @create: 2018-11-04 11:35
  */

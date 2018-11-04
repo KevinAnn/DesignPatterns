@@ -1,4 +1,4 @@
-package com.templateMethod;
+package com.templatemethod;
 
 /**
  * @description: 字符显示类

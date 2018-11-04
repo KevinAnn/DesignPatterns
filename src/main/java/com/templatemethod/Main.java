@@ -1,4 +1,4 @@
-package com.templateMethod;
+package com.templatemethod;
 
 /**
  * @description: 模板方法模式执行类

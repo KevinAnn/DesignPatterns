@@ -1,4 +1,4 @@
-package com.templateMethod;
+package com.templatemethod;
 
 /**
  * @description: 显示内容抽象类（模板类）
